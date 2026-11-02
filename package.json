@@ -1,7 +1,7 @@
 {
   "name": "sleep_breaker",
   "version": "1.0.0",
-  "description": "Pings a URL every 14 minutes.",
+  "description": "Pings configured URLs every 14 minutes with a Vercel Cron job.",
   "main": "index.js",
   "type": "module",
   "scripts": {
