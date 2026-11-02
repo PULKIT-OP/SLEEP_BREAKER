@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: sleep-breaker
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: TARGET_URLS
+        value: https://awaaz-1-ol1a.onrender.com

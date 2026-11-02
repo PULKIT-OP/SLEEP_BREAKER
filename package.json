@@ -1,7 +1,7 @@
 {
   "name": "sleep_breaker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pings a URL every 14 minutes.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,5 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^5.3.0"
-  }
+  "dependencies": {}
 }
