@@ -1,6 +1,4 @@
 const defaultUrls = [
-  'https://awaaz-1-ol1a.onrender.com',
-  'https://anywhere-37sw.onrender.com',
   // Add more service URLs here.
 ];
 
